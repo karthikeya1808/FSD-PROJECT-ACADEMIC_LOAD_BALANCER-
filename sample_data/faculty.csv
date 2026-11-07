@@ -1,0 +1,11 @@
+fid,name,designation,min_hours,max_hours,expertise,unavailable_slots
+F01,Dr. Anita Sharma,Professor,4,10,ai;machine learning;data science,Fri-5;Fri-6
+F02,Dr. Rajesh Kumar,Professor,4,10,networks;security;operating systems,Mon-1;Wed-1;Fri-1
+F03,Dr. Meera Iyer,Associate Professor,6,12,databases;data science;cloud,Tue-6;Thu-6
+F04,Dr. Sanjay Gupta,Associate Professor,6,12,algorithms;theory;mathematics,Mon-5;Mon-6;Wed-5;Wed-6
+F05,Dr. Priya Nair,Associate Professor,6,12,software engineering;web development;cloud,Tue-1;Thu-1
+F06,Mr. Arjun Singh,Assistant Professor,8,14,web development;programming;databases,Fri-3;Fri-4
+F07,Ms. Kavita Rao,Assistant Professor,8,14,ai;machine learning;programming,Mon-2;Wed-2
+F08,Mr. Vikram Joshi,Assistant Professor,8,14,operating systems;computer architecture;programming,Thu-1;Thu-2;Thu-3
+F09,Ms. Neha Verma,Assistant Professor,8,14,networks;cloud;security,Wed-3;Wed-4
+F10,Dr. Harpreet Kaur,Assistant Professor,8,14,mathematics;algorithms;data science,Tue-5;Tue-6

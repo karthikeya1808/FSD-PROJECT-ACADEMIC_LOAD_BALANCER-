@@ -1,0 +1,35 @@
+code,name,credits,weekly_hours,type,required_skill,slots
+CS101,Programming Fundamentals,3,3,theory,programming,Mon-1;Wed-1;Fri-1
+CS102,Discrete Mathematics,3,3,theory,mathematics,Tue-1;Thu-1;Fri-1
+CS201,Data Structures,4,4,theory,algorithms,Mon-2;Tue-2;Thu-2;Fri-2
+CS202,Database Management Systems,3,3,theory,databases,Mon-3;Wed-3;Fri-3
+CS203,Operating Systems,3,3,theory,operating systems,Tue-2;Thu-2;Fri-2
+CS204,Computer Organization,3,3,theory,computer architecture,Mon-2;Wed-2;Fri-2
+CS205,Theory of Computation,3,3,theory,theory,Tue-3;Thu-3;Fri-3
+CS301,Machine Learning,3,3,theory,machine learning,Mon-4;Wed-4;Fri-4
+CS302,Computer Networks,3,3,theory,networks,Tue-4;Thu-4;Fri-4
+CS303,Software Engineering,3,3,theory,software engineering,Mon-5;Wed-5;Fri-5
+CS304,Design and Analysis of Algorithms,3,3,theory,algorithms,Tue-5;Thu-5;Fri-5
+CS305,Web Technologies,3,3,theory,web development,Mon-6;Wed-6;Fri-6
+CS306,Cloud Computing,3,3,theory,cloud,Tue-6;Thu-6;Fri-6
+CS401,Artificial Intelligence,3,3,theory,ai,Mon-4;Wed-4;Fri-4
+CS402,Information Security,3,3,theory,security,Tue-4;Thu-4;Fri-4
+CS403,Data Science and Analytics,3,3,theory,data science,Mon-3;Wed-3;Fri-3
+CS404,Big Data Systems,3,3,theory,data science;cloud,Tue-3;Thu-3;Fri-3
+CS405,Probability and Statistics,3,3,theory,mathematics,Mon-1;Wed-1;Fri-1
+CS151,Programming Lab,1,2,lab,programming,Mon-3;Mon-4
+CS251,Data Structures Lab,1,2,lab,algorithms,Tue-3;Tue-4
+CS252,DBMS Lab,1,2,lab,databases,Wed-3;Wed-4
+CS253,Operating Systems Lab,1,2,lab,operating systems,Thu-3;Thu-4
+CS351,Machine Learning Lab,1,2,lab,machine learning,Fri-3;Fri-4
+CS352,Networks Lab,1,2,lab,networks,Mon-5;Mon-6
+CS353,Web Technologies Lab,2,3,lab,web development,Tue-4;Tue-5;Tue-6
+CS451,Cloud Computing Lab,1,2,lab,cloud,Wed-5;Wed-6
+CS452,Security Lab,1,2,lab,security,Thu-5;Thu-6
+TU101,Mathematics Tutorial,0,1,tutorial,mathematics,Mon-6
+TU201,Data Structures Tutorial,0,1,tutorial,algorithms,Tue-6
+TU202,DBMS Tutorial,0,1,tutorial,databases,Wed-6
+TU301,Machine Learning Tutorial,0,1,tutorial,machine learning,Thu-6
+TU302,Networks Tutorial,0,1,tutorial,networks,Fri-6
+TU303,Software Engineering Tutorial,0,1,tutorial,software engineering,Mon-5
+TU401,AI Tutorial,0,1,tutorial,ai,Tue-5
